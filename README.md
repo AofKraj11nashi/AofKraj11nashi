@@ -45,6 +45,11 @@ I'm **Aof**, a **Computer Science student at Leeds Trinity University** with an 
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-171717?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img alt="Cisco Packet Tracer" src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-4355B9?style=for-the-badge" />
 </p>
 
 ## 📚 Currently Learning
