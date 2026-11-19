@@ -76,7 +76,7 @@ Some of my public university and practice work is available in [Software-Develop
 
 <sub>Stats are provided by a third-party service and may be temporarily unavailable. Language percentages reflect GitHub repositories, not overall proficiency; private repositories may be excluded.</sub>
 
-## 📫 Contact
+## Contact
 
 - **GitHub:** [@AofKraj11nashi](https://github.com/AofKraj11nashi)
 - **Collaboration:** Reach out through an appropriate public repository's Issues or Discussions, where enabled.
